@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bonus Task</string>
+    <string name="see_more">See More</string>
+    <string name="text1">KODECAMP \n ANDROID \n DEVELOPER</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="text">I am passionate, driven \n and committed to finish \n Kodecamp as one of the \n best.</string>
+    <string name="imageView3">TODO</string>
+</resources>
